@@ -120,10 +120,9 @@ If a trained `.keras` model is already available, you can load it for prediction
 
 | Metric | Result |
 |---|---|
-| Training Accuracy | Add actual result |
-| Validation Accuracy | Add actual result |
-| Test Accuracy | Add actual result |
-| Loss | Add actual result |
+| Training Accuracy | 66.09% |
+| Validation Accuracy | 66.27% |
+| Validation Loss | 0.8626 |
 
 Model performance should be measured on data that was not used for training. Actual results will depend on the dataset, preprocessing, model architecture, and training configuration.
 
